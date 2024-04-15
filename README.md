@@ -1,5 +1,5 @@
 # xs_drugeffect
-----------------
+
 Das Script kann deinen Items einen Effekt verleihen wie in den Beispielen gezeigt
 
 ----------------
